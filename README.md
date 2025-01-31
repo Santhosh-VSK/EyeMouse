@@ -1,3 +1,4 @@
+Use python version 3.10.11
 Eye Tracking Mouse using OpenCV – Project Explanation & Execution
 This project allows you to control the mouse cursor using eye movements. We use OpenCV, dlib (for face & eye detection), and PyAutoGUI (for mouse control).
 
